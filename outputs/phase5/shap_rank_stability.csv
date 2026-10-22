@@ -1,0 +1,17 @@
+state,spearman_vs_pooled,target
+Andhra Pradesh,0.9447779111644657,energy
+Gujarat,0.9443937575030013,energy
+Karnataka,0.9534213685474189,energy
+Maharashtra,0.9234573829531812,energy
+Rajasthan,0.9515006002400961,energy
+Tamil Nadu,0.9511164465786314,energy
+Telangana,0.946890756302521,energy
+West Bengal,0.9450660264105641,energy
+Andhra Pradesh,0.9224009603841536,peak
+Gujarat,0.9572629051620648,peak
+Karnataka,0.9151980792316926,peak
+Maharashtra,0.9597599039615845,peak
+Rajasthan,0.9454501800720289,peak
+Tamil Nadu,0.9308523409363745,peak
+Telangana,0.9393037214885953,peak
+West Bengal,0.9241296518607441,peak

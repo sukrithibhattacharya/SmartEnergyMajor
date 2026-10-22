@@ -1,0 +1,769 @@
+state,season,hour,ci_kg_per_kwh
+Andhra Pradesh,winter,0,0.78244
+Andhra Pradesh,winter,1,0.78244
+Andhra Pradesh,winter,2,0.78244
+Andhra Pradesh,winter,3,0.78244
+Andhra Pradesh,winter,4,0.78244
+Andhra Pradesh,winter,5,0.78244
+Andhra Pradesh,winter,6,0.78244
+Andhra Pradesh,winter,7,0.642305
+Andhra Pradesh,winter,8,0.51172
+Andhra Pradesh,winter,9,0.399585
+Andhra Pradesh,winter,10,0.31354
+Andhra Pradesh,winter,11,0.25945
+Andhra Pradesh,winter,12,0.241001
+Andhra Pradesh,winter,13,0.25945
+Andhra Pradesh,winter,14,0.31354
+Andhra Pradesh,winter,15,0.399585
+Andhra Pradesh,winter,16,0.51172
+Andhra Pradesh,winter,17,0.642305
+Andhra Pradesh,winter,18,0.78244
+Andhra Pradesh,winter,19,0.78244
+Andhra Pradesh,winter,20,0.78244
+Andhra Pradesh,winter,21,0.78244
+Andhra Pradesh,winter,22,0.78244
+Andhra Pradesh,winter,23,0.78244
+Andhra Pradesh,summer,0,0.78244
+Andhra Pradesh,summer,1,0.78244
+Andhra Pradesh,summer,2,0.78244
+Andhra Pradesh,summer,3,0.78244
+Andhra Pradesh,summer,4,0.78244
+Andhra Pradesh,summer,5,0.78244
+Andhra Pradesh,summer,6,0.78244
+Andhra Pradesh,summer,7,0.642305
+Andhra Pradesh,summer,8,0.51172
+Andhra Pradesh,summer,9,0.399585
+Andhra Pradesh,summer,10,0.31354
+Andhra Pradesh,summer,11,0.25945
+Andhra Pradesh,summer,12,0.241001
+Andhra Pradesh,summer,13,0.25945
+Andhra Pradesh,summer,14,0.31354
+Andhra Pradesh,summer,15,0.399585
+Andhra Pradesh,summer,16,0.51172
+Andhra Pradesh,summer,17,0.642305
+Andhra Pradesh,summer,18,0.78244
+Andhra Pradesh,summer,19,0.78244
+Andhra Pradesh,summer,20,0.78244
+Andhra Pradesh,summer,21,0.78244
+Andhra Pradesh,summer,22,0.78244
+Andhra Pradesh,summer,23,0.78244
+Andhra Pradesh,monsoon,0,0.78244
+Andhra Pradesh,monsoon,1,0.78244
+Andhra Pradesh,monsoon,2,0.78244
+Andhra Pradesh,monsoon,3,0.78244
+Andhra Pradesh,monsoon,4,0.78244
+Andhra Pradesh,monsoon,5,0.78244
+Andhra Pradesh,monsoon,6,0.78244
+Andhra Pradesh,monsoon,7,0.642305
+Andhra Pradesh,monsoon,8,0.51172
+Andhra Pradesh,monsoon,9,0.399585
+Andhra Pradesh,monsoon,10,0.31354
+Andhra Pradesh,monsoon,11,0.25945
+Andhra Pradesh,monsoon,12,0.241001
+Andhra Pradesh,monsoon,13,0.25945
+Andhra Pradesh,monsoon,14,0.31354
+Andhra Pradesh,monsoon,15,0.399585
+Andhra Pradesh,monsoon,16,0.51172
+Andhra Pradesh,monsoon,17,0.642305
+Andhra Pradesh,monsoon,18,0.78244
+Andhra Pradesh,monsoon,19,0.78244
+Andhra Pradesh,monsoon,20,0.78244
+Andhra Pradesh,monsoon,21,0.78244
+Andhra Pradesh,monsoon,22,0.78244
+Andhra Pradesh,monsoon,23,0.78244
+Andhra Pradesh,post_monsoon,0,0.78244
+Andhra Pradesh,post_monsoon,1,0.78244
+Andhra Pradesh,post_monsoon,2,0.78244
+Andhra Pradesh,post_monsoon,3,0.78244
+Andhra Pradesh,post_monsoon,4,0.78244
+Andhra Pradesh,post_monsoon,5,0.78244
+Andhra Pradesh,post_monsoon,6,0.78244
+Andhra Pradesh,post_monsoon,7,0.642305
+Andhra Pradesh,post_monsoon,8,0.51172
+Andhra Pradesh,post_monsoon,9,0.399585
+Andhra Pradesh,post_monsoon,10,0.31354
+Andhra Pradesh,post_monsoon,11,0.25945
+Andhra Pradesh,post_monsoon,12,0.241001
+Andhra Pradesh,post_monsoon,13,0.25945
+Andhra Pradesh,post_monsoon,14,0.31354
+Andhra Pradesh,post_monsoon,15,0.399585
+Andhra Pradesh,post_monsoon,16,0.51172
+Andhra Pradesh,post_monsoon,17,0.642305
+Andhra Pradesh,post_monsoon,18,0.78244
+Andhra Pradesh,post_monsoon,19,0.78244
+Andhra Pradesh,post_monsoon,20,0.78244
+Andhra Pradesh,post_monsoon,21,0.78244
+Andhra Pradesh,post_monsoon,22,0.78244
+Andhra Pradesh,post_monsoon,23,0.78244
+Gujarat,winter,0,0.80131
+Gujarat,winter,1,0.80131
+Gujarat,winter,2,0.80131
+Gujarat,winter,3,0.80131
+Gujarat,winter,4,0.80131
+Gujarat,winter,5,0.80131
+Gujarat,winter,6,0.80131
+Gujarat,winter,7,0.700102
+Gujarat,winter,8,0.60579
+Gujarat,winter,9,0.524803
+Gujarat,winter,10,0.46266
+Gujarat,winter,11,0.423595
+Gujarat,winter,12,0.41027
+Gujarat,winter,13,0.423595
+Gujarat,winter,14,0.46266
+Gujarat,winter,15,0.524803
+Gujarat,winter,16,0.60579
+Gujarat,winter,17,0.700102
+Gujarat,winter,18,0.80131
+Gujarat,winter,19,0.80131
+Gujarat,winter,20,0.80131
+Gujarat,winter,21,0.80131
+Gujarat,winter,22,0.80131
+Gujarat,winter,23,0.80131
+Gujarat,summer,0,0.80131
+Gujarat,summer,1,0.80131
+Gujarat,summer,2,0.80131
+Gujarat,summer,3,0.80131
+Gujarat,summer,4,0.80131
+Gujarat,summer,5,0.80131
+Gujarat,summer,6,0.80131
+Gujarat,summer,7,0.700102
+Gujarat,summer,8,0.60579
+Gujarat,summer,9,0.524803
+Gujarat,summer,10,0.46266
+Gujarat,summer,11,0.423595
+Gujarat,summer,12,0.41027
+Gujarat,summer,13,0.423595
+Gujarat,summer,14,0.46266
+Gujarat,summer,15,0.524803
+Gujarat,summer,16,0.60579
+Gujarat,summer,17,0.700102
+Gujarat,summer,18,0.80131
+Gujarat,summer,19,0.80131
+Gujarat,summer,20,0.80131
+Gujarat,summer,21,0.80131
+Gujarat,summer,22,0.80131
+Gujarat,summer,23,0.80131
+Gujarat,monsoon,0,0.80131
+Gujarat,monsoon,1,0.80131
+Gujarat,monsoon,2,0.80131
+Gujarat,monsoon,3,0.80131
+Gujarat,monsoon,4,0.80131
+Gujarat,monsoon,5,0.80131
+Gujarat,monsoon,6,0.80131
+Gujarat,monsoon,7,0.700102
+Gujarat,monsoon,8,0.60579
+Gujarat,monsoon,9,0.524803
+Gujarat,monsoon,10,0.46266
+Gujarat,monsoon,11,0.423595
+Gujarat,monsoon,12,0.41027
+Gujarat,monsoon,13,0.423595
+Gujarat,monsoon,14,0.46266
+Gujarat,monsoon,15,0.524803
+Gujarat,monsoon,16,0.60579
+Gujarat,monsoon,17,0.700102
+Gujarat,monsoon,18,0.80131
+Gujarat,monsoon,19,0.80131
+Gujarat,monsoon,20,0.80131
+Gujarat,monsoon,21,0.80131
+Gujarat,monsoon,22,0.80131
+Gujarat,monsoon,23,0.80131
+Gujarat,post_monsoon,0,0.80131
+Gujarat,post_monsoon,1,0.80131
+Gujarat,post_monsoon,2,0.80131
+Gujarat,post_monsoon,3,0.80131
+Gujarat,post_monsoon,4,0.80131
+Gujarat,post_monsoon,5,0.80131
+Gujarat,post_monsoon,6,0.80131
+Gujarat,post_monsoon,7,0.700102
+Gujarat,post_monsoon,8,0.60579
+Gujarat,post_monsoon,9,0.524803
+Gujarat,post_monsoon,10,0.46266
+Gujarat,post_monsoon,11,0.423595
+Gujarat,post_monsoon,12,0.41027
+Gujarat,post_monsoon,13,0.423595
+Gujarat,post_monsoon,14,0.46266
+Gujarat,post_monsoon,15,0.524803
+Gujarat,post_monsoon,16,0.60579
+Gujarat,post_monsoon,17,0.700102
+Gujarat,post_monsoon,18,0.80131
+Gujarat,post_monsoon,19,0.80131
+Gujarat,post_monsoon,20,0.80131
+Gujarat,post_monsoon,21,0.80131
+Gujarat,post_monsoon,22,0.80131
+Gujarat,post_monsoon,23,0.80131
+Karnataka,winter,0,0.60226
+Karnataka,winter,1,0.60226
+Karnataka,winter,2,0.60226
+Karnataka,winter,3,0.60226
+Karnataka,winter,4,0.60226
+Karnataka,winter,5,0.60226
+Karnataka,winter,6,0.60226
+Karnataka,winter,7,0.477696
+Karnataka,winter,8,0.36162
+Karnataka,winter,9,0.261944
+Karnataka,winter,10,0.18546
+Karnataka,winter,11,0.13738
+Karnataka,winter,12,0.120981
+Karnataka,winter,13,0.13738
+Karnataka,winter,14,0.18546
+Karnataka,winter,15,0.261944
+Karnataka,winter,16,0.36162
+Karnataka,winter,17,0.477696
+Karnataka,winter,18,0.60226
+Karnataka,winter,19,0.60226
+Karnataka,winter,20,0.60226
+Karnataka,winter,21,0.60226
+Karnataka,winter,22,0.60226
+Karnataka,winter,23,0.60226
+Karnataka,summer,0,0.60226
+Karnataka,summer,1,0.60226
+Karnataka,summer,2,0.60226
+Karnataka,summer,3,0.60226
+Karnataka,summer,4,0.60226
+Karnataka,summer,5,0.60226
+Karnataka,summer,6,0.60226
+Karnataka,summer,7,0.477696
+Karnataka,summer,8,0.36162
+Karnataka,summer,9,0.261944
+Karnataka,summer,10,0.18546
+Karnataka,summer,11,0.13738
+Karnataka,summer,12,0.120981
+Karnataka,summer,13,0.13738
+Karnataka,summer,14,0.18546
+Karnataka,summer,15,0.261944
+Karnataka,summer,16,0.36162
+Karnataka,summer,17,0.477696
+Karnataka,summer,18,0.60226
+Karnataka,summer,19,0.60226
+Karnataka,summer,20,0.60226
+Karnataka,summer,21,0.60226
+Karnataka,summer,22,0.60226
+Karnataka,summer,23,0.60226
+Karnataka,monsoon,0,0.60226
+Karnataka,monsoon,1,0.60226
+Karnataka,monsoon,2,0.60226
+Karnataka,monsoon,3,0.60226
+Karnataka,monsoon,4,0.60226
+Karnataka,monsoon,5,0.60226
+Karnataka,monsoon,6,0.60226
+Karnataka,monsoon,7,0.477696
+Karnataka,monsoon,8,0.36162
+Karnataka,monsoon,9,0.261944
+Karnataka,monsoon,10,0.18546
+Karnataka,monsoon,11,0.13738
+Karnataka,monsoon,12,0.120981
+Karnataka,monsoon,13,0.13738
+Karnataka,monsoon,14,0.18546
+Karnataka,monsoon,15,0.261944
+Karnataka,monsoon,16,0.36162
+Karnataka,monsoon,17,0.477696
+Karnataka,monsoon,18,0.60226
+Karnataka,monsoon,19,0.60226
+Karnataka,monsoon,20,0.60226
+Karnataka,monsoon,21,0.60226
+Karnataka,monsoon,22,0.60226
+Karnataka,monsoon,23,0.60226
+Karnataka,post_monsoon,0,0.60226
+Karnataka,post_monsoon,1,0.60226
+Karnataka,post_monsoon,2,0.60226
+Karnataka,post_monsoon,3,0.60226
+Karnataka,post_monsoon,4,0.60226
+Karnataka,post_monsoon,5,0.60226
+Karnataka,post_monsoon,6,0.60226
+Karnataka,post_monsoon,7,0.477696
+Karnataka,post_monsoon,8,0.36162
+Karnataka,post_monsoon,9,0.261944
+Karnataka,post_monsoon,10,0.18546
+Karnataka,post_monsoon,11,0.13738
+Karnataka,post_monsoon,12,0.120981
+Karnataka,post_monsoon,13,0.13738
+Karnataka,post_monsoon,14,0.18546
+Karnataka,post_monsoon,15,0.261944
+Karnataka,post_monsoon,16,0.36162
+Karnataka,post_monsoon,17,0.477696
+Karnataka,post_monsoon,18,0.60226
+Karnataka,post_monsoon,19,0.60226
+Karnataka,post_monsoon,20,0.60226
+Karnataka,post_monsoon,21,0.60226
+Karnataka,post_monsoon,22,0.60226
+Karnataka,post_monsoon,23,0.60226
+Maharashtra,winter,0,0.84157
+Maharashtra,winter,1,0.84157
+Maharashtra,winter,2,0.84157
+Maharashtra,winter,3,0.84157
+Maharashtra,winter,4,0.84157
+Maharashtra,winter,5,0.84157
+Maharashtra,winter,6,0.84157
+Maharashtra,winter,7,0.779288
+Maharashtra,winter,8,0.72125
+Maharashtra,winter,9,0.671412
+Maharashtra,winter,10,0.63317
+Maharashtra,winter,11,0.60913
+Maharashtra,winter,12,0.60093
+Maharashtra,winter,13,0.60913
+Maharashtra,winter,14,0.63317
+Maharashtra,winter,15,0.671412
+Maharashtra,winter,16,0.72125
+Maharashtra,winter,17,0.779288
+Maharashtra,winter,18,0.84157
+Maharashtra,winter,19,0.84157
+Maharashtra,winter,20,0.84157
+Maharashtra,winter,21,0.84157
+Maharashtra,winter,22,0.84157
+Maharashtra,winter,23,0.84157
+Maharashtra,summer,0,0.84157
+Maharashtra,summer,1,0.84157
+Maharashtra,summer,2,0.84157
+Maharashtra,summer,3,0.84157
+Maharashtra,summer,4,0.84157
+Maharashtra,summer,5,0.84157
+Maharashtra,summer,6,0.84157
+Maharashtra,summer,7,0.779288
+Maharashtra,summer,8,0.72125
+Maharashtra,summer,9,0.671412
+Maharashtra,summer,10,0.63317
+Maharashtra,summer,11,0.60913
+Maharashtra,summer,12,0.60093
+Maharashtra,summer,13,0.60913
+Maharashtra,summer,14,0.63317
+Maharashtra,summer,15,0.671412
+Maharashtra,summer,16,0.72125
+Maharashtra,summer,17,0.779288
+Maharashtra,summer,18,0.84157
+Maharashtra,summer,19,0.84157
+Maharashtra,summer,20,0.84157
+Maharashtra,summer,21,0.84157
+Maharashtra,summer,22,0.84157
+Maharashtra,summer,23,0.84157
+Maharashtra,monsoon,0,0.84157
+Maharashtra,monsoon,1,0.84157
+Maharashtra,monsoon,2,0.84157
+Maharashtra,monsoon,3,0.84157
+Maharashtra,monsoon,4,0.84157
+Maharashtra,monsoon,5,0.84157
+Maharashtra,monsoon,6,0.84157
+Maharashtra,monsoon,7,0.779288
+Maharashtra,monsoon,8,0.72125
+Maharashtra,monsoon,9,0.671412
+Maharashtra,monsoon,10,0.63317
+Maharashtra,monsoon,11,0.60913
+Maharashtra,monsoon,12,0.60093
+Maharashtra,monsoon,13,0.60913
+Maharashtra,monsoon,14,0.63317
+Maharashtra,monsoon,15,0.671412
+Maharashtra,monsoon,16,0.72125
+Maharashtra,monsoon,17,0.779288
+Maharashtra,monsoon,18,0.84157
+Maharashtra,monsoon,19,0.84157
+Maharashtra,monsoon,20,0.84157
+Maharashtra,monsoon,21,0.84157
+Maharashtra,monsoon,22,0.84157
+Maharashtra,monsoon,23,0.84157
+Maharashtra,post_monsoon,0,0.84157
+Maharashtra,post_monsoon,1,0.84157
+Maharashtra,post_monsoon,2,0.84157
+Maharashtra,post_monsoon,3,0.84157
+Maharashtra,post_monsoon,4,0.84157
+Maharashtra,post_monsoon,5,0.84157
+Maharashtra,post_monsoon,6,0.84157
+Maharashtra,post_monsoon,7,0.779288
+Maharashtra,post_monsoon,8,0.72125
+Maharashtra,post_monsoon,9,0.671412
+Maharashtra,post_monsoon,10,0.63317
+Maharashtra,post_monsoon,11,0.60913
+Maharashtra,post_monsoon,12,0.60093
+Maharashtra,post_monsoon,13,0.60913
+Maharashtra,post_monsoon,14,0.63317
+Maharashtra,post_monsoon,15,0.671412
+Maharashtra,post_monsoon,16,0.72125
+Maharashtra,post_monsoon,17,0.779288
+Maharashtra,post_monsoon,18,0.84157
+Maharashtra,post_monsoon,19,0.84157
+Maharashtra,post_monsoon,20,0.84157
+Maharashtra,post_monsoon,21,0.84157
+Maharashtra,post_monsoon,22,0.84157
+Maharashtra,post_monsoon,23,0.84157
+Rajasthan,winter,0,0.741712
+Rajasthan,winter,1,0.741712
+Rajasthan,winter,2,0.741712
+Rajasthan,winter,3,0.741712
+Rajasthan,winter,4,0.741712
+Rajasthan,winter,5,0.741712
+Rajasthan,winter,6,0.741712
+Rajasthan,winter,7,0.485272
+Rajasthan,winter,8,0.25056
+Rajasthan,winter,9,0.25056
+Rajasthan,winter,10,0.25056
+Rajasthan,winter,11,0.25056
+Rajasthan,winter,12,0.25056
+Rajasthan,winter,13,0.25056
+Rajasthan,winter,14,0.25056
+Rajasthan,winter,15,0.25056
+Rajasthan,winter,16,0.25056
+Rajasthan,winter,17,0.485272
+Rajasthan,winter,18,0.741712
+Rajasthan,winter,19,0.741712
+Rajasthan,winter,20,0.741712
+Rajasthan,winter,21,0.741712
+Rajasthan,winter,22,0.741712
+Rajasthan,winter,23,0.741712
+Rajasthan,summer,0,0.741712
+Rajasthan,summer,1,0.741712
+Rajasthan,summer,2,0.741712
+Rajasthan,summer,3,0.741712
+Rajasthan,summer,4,0.741712
+Rajasthan,summer,5,0.741712
+Rajasthan,summer,6,0.741712
+Rajasthan,summer,7,0.485272
+Rajasthan,summer,8,0.25056
+Rajasthan,summer,9,0.25056
+Rajasthan,summer,10,0.25056
+Rajasthan,summer,11,0.25056
+Rajasthan,summer,12,0.25056
+Rajasthan,summer,13,0.25056
+Rajasthan,summer,14,0.25056
+Rajasthan,summer,15,0.25056
+Rajasthan,summer,16,0.25056
+Rajasthan,summer,17,0.485272
+Rajasthan,summer,18,0.741712
+Rajasthan,summer,19,0.741712
+Rajasthan,summer,20,0.741712
+Rajasthan,summer,21,0.741712
+Rajasthan,summer,22,0.741712
+Rajasthan,summer,23,0.741712
+Rajasthan,monsoon,0,0.741712
+Rajasthan,monsoon,1,0.741712
+Rajasthan,monsoon,2,0.741712
+Rajasthan,monsoon,3,0.741712
+Rajasthan,monsoon,4,0.741712
+Rajasthan,monsoon,5,0.741712
+Rajasthan,monsoon,6,0.741712
+Rajasthan,monsoon,7,0.485272
+Rajasthan,monsoon,8,0.25056
+Rajasthan,monsoon,9,0.25056
+Rajasthan,monsoon,10,0.25056
+Rajasthan,monsoon,11,0.25056
+Rajasthan,monsoon,12,0.25056
+Rajasthan,monsoon,13,0.25056
+Rajasthan,monsoon,14,0.25056
+Rajasthan,monsoon,15,0.25056
+Rajasthan,monsoon,16,0.25056
+Rajasthan,monsoon,17,0.485272
+Rajasthan,monsoon,18,0.741712
+Rajasthan,monsoon,19,0.741712
+Rajasthan,monsoon,20,0.741712
+Rajasthan,monsoon,21,0.741712
+Rajasthan,monsoon,22,0.741712
+Rajasthan,monsoon,23,0.741712
+Rajasthan,post_monsoon,0,0.741712
+Rajasthan,post_monsoon,1,0.741712
+Rajasthan,post_monsoon,2,0.741712
+Rajasthan,post_monsoon,3,0.741712
+Rajasthan,post_monsoon,4,0.741712
+Rajasthan,post_monsoon,5,0.741712
+Rajasthan,post_monsoon,6,0.741712
+Rajasthan,post_monsoon,7,0.485272
+Rajasthan,post_monsoon,8,0.25056
+Rajasthan,post_monsoon,9,0.25056
+Rajasthan,post_monsoon,10,0.25056
+Rajasthan,post_monsoon,11,0.25056
+Rajasthan,post_monsoon,12,0.25056
+Rajasthan,post_monsoon,13,0.25056
+Rajasthan,post_monsoon,14,0.25056
+Rajasthan,post_monsoon,15,0.25056
+Rajasthan,post_monsoon,16,0.25056
+Rajasthan,post_monsoon,17,0.485272
+Rajasthan,post_monsoon,18,0.741712
+Rajasthan,post_monsoon,19,0.741712
+Rajasthan,post_monsoon,20,0.741712
+Rajasthan,post_monsoon,21,0.741712
+Rajasthan,post_monsoon,22,0.741712
+Rajasthan,post_monsoon,23,0.741712
+Tamil Nadu,winter,0,0.63452
+Tamil Nadu,winter,1,0.63452
+Tamil Nadu,winter,2,0.63452
+Tamil Nadu,winter,3,0.63452
+Tamil Nadu,winter,4,0.63452
+Tamil Nadu,winter,5,0.63452
+Tamil Nadu,winter,6,0.63452
+Tamil Nadu,winter,7,0.533312
+Tamil Nadu,winter,8,0.439
+Tamil Nadu,winter,9,0.358013
+Tamil Nadu,winter,10,0.29587
+Tamil Nadu,winter,11,0.256805
+Tamil Nadu,winter,12,0.24348
+Tamil Nadu,winter,13,0.256805
+Tamil Nadu,winter,14,0.29587
+Tamil Nadu,winter,15,0.358013
+Tamil Nadu,winter,16,0.439
+Tamil Nadu,winter,17,0.533312
+Tamil Nadu,winter,18,0.63452
+Tamil Nadu,winter,19,0.63452
+Tamil Nadu,winter,20,0.63452
+Tamil Nadu,winter,21,0.63452
+Tamil Nadu,winter,22,0.63452
+Tamil Nadu,winter,23,0.63452
+Tamil Nadu,summer,0,0.63452
+Tamil Nadu,summer,1,0.63452
+Tamil Nadu,summer,2,0.63452
+Tamil Nadu,summer,3,0.63452
+Tamil Nadu,summer,4,0.63452
+Tamil Nadu,summer,5,0.63452
+Tamil Nadu,summer,6,0.63452
+Tamil Nadu,summer,7,0.533312
+Tamil Nadu,summer,8,0.439
+Tamil Nadu,summer,9,0.358013
+Tamil Nadu,summer,10,0.29587
+Tamil Nadu,summer,11,0.256805
+Tamil Nadu,summer,12,0.24348
+Tamil Nadu,summer,13,0.256805
+Tamil Nadu,summer,14,0.29587
+Tamil Nadu,summer,15,0.358013
+Tamil Nadu,summer,16,0.439
+Tamil Nadu,summer,17,0.533312
+Tamil Nadu,summer,18,0.63452
+Tamil Nadu,summer,19,0.63452
+Tamil Nadu,summer,20,0.63452
+Tamil Nadu,summer,21,0.63452
+Tamil Nadu,summer,22,0.63452
+Tamil Nadu,summer,23,0.63452
+Tamil Nadu,monsoon,0,0.63452
+Tamil Nadu,monsoon,1,0.63452
+Tamil Nadu,monsoon,2,0.63452
+Tamil Nadu,monsoon,3,0.63452
+Tamil Nadu,monsoon,4,0.63452
+Tamil Nadu,monsoon,5,0.63452
+Tamil Nadu,monsoon,6,0.63452
+Tamil Nadu,monsoon,7,0.533312
+Tamil Nadu,monsoon,8,0.439
+Tamil Nadu,monsoon,9,0.358013
+Tamil Nadu,monsoon,10,0.29587
+Tamil Nadu,monsoon,11,0.256805
+Tamil Nadu,monsoon,12,0.24348
+Tamil Nadu,monsoon,13,0.256805
+Tamil Nadu,monsoon,14,0.29587
+Tamil Nadu,monsoon,15,0.358013
+Tamil Nadu,monsoon,16,0.439
+Tamil Nadu,monsoon,17,0.533312
+Tamil Nadu,monsoon,18,0.63452
+Tamil Nadu,monsoon,19,0.63452
+Tamil Nadu,monsoon,20,0.63452
+Tamil Nadu,monsoon,21,0.63452
+Tamil Nadu,monsoon,22,0.63452
+Tamil Nadu,monsoon,23,0.63452
+Tamil Nadu,post_monsoon,0,0.63452
+Tamil Nadu,post_monsoon,1,0.63452
+Tamil Nadu,post_monsoon,2,0.63452
+Tamil Nadu,post_monsoon,3,0.63452
+Tamil Nadu,post_monsoon,4,0.63452
+Tamil Nadu,post_monsoon,5,0.63452
+Tamil Nadu,post_monsoon,6,0.63452
+Tamil Nadu,post_monsoon,7,0.533312
+Tamil Nadu,post_monsoon,8,0.439
+Tamil Nadu,post_monsoon,9,0.358013
+Tamil Nadu,post_monsoon,10,0.29587
+Tamil Nadu,post_monsoon,11,0.256805
+Tamil Nadu,post_monsoon,12,0.24348
+Tamil Nadu,post_monsoon,13,0.256805
+Tamil Nadu,post_monsoon,14,0.29587
+Tamil Nadu,post_monsoon,15,0.358013
+Tamil Nadu,post_monsoon,16,0.439
+Tamil Nadu,post_monsoon,17,0.533312
+Tamil Nadu,post_monsoon,18,0.63452
+Tamil Nadu,post_monsoon,19,0.63452
+Tamil Nadu,post_monsoon,20,0.63452
+Tamil Nadu,post_monsoon,21,0.63452
+Tamil Nadu,post_monsoon,22,0.63452
+Tamil Nadu,post_monsoon,23,0.63452
+Telangana,winter,0,0.83766
+Telangana,winter,1,0.83766
+Telangana,winter,2,0.83766
+Telangana,winter,3,0.83766
+Telangana,winter,4,0.83766
+Telangana,winter,5,0.83766
+Telangana,winter,6,0.83766
+Telangana,winter,7,0.728666
+Telangana,winter,8,0.6271
+Telangana,winter,9,0.539884
+Telangana,winter,10,0.47296
+Telangana,winter,11,0.43089
+Telangana,winter,12,0.416541
+Telangana,winter,13,0.43089
+Telangana,winter,14,0.47296
+Telangana,winter,15,0.539884
+Telangana,winter,16,0.6271
+Telangana,winter,17,0.728666
+Telangana,winter,18,0.83766
+Telangana,winter,19,0.83766
+Telangana,winter,20,0.83766
+Telangana,winter,21,0.83766
+Telangana,winter,22,0.83766
+Telangana,winter,23,0.83766
+Telangana,summer,0,0.83766
+Telangana,summer,1,0.83766
+Telangana,summer,2,0.83766
+Telangana,summer,3,0.83766
+Telangana,summer,4,0.83766
+Telangana,summer,5,0.83766
+Telangana,summer,6,0.83766
+Telangana,summer,7,0.728666
+Telangana,summer,8,0.6271
+Telangana,summer,9,0.539884
+Telangana,summer,10,0.47296
+Telangana,summer,11,0.43089
+Telangana,summer,12,0.416541
+Telangana,summer,13,0.43089
+Telangana,summer,14,0.47296
+Telangana,summer,15,0.539884
+Telangana,summer,16,0.6271
+Telangana,summer,17,0.728666
+Telangana,summer,18,0.83766
+Telangana,summer,19,0.83766
+Telangana,summer,20,0.83766
+Telangana,summer,21,0.83766
+Telangana,summer,22,0.83766
+Telangana,summer,23,0.83766
+Telangana,monsoon,0,0.83766
+Telangana,monsoon,1,0.83766
+Telangana,monsoon,2,0.83766
+Telangana,monsoon,3,0.83766
+Telangana,monsoon,4,0.83766
+Telangana,monsoon,5,0.83766
+Telangana,monsoon,6,0.83766
+Telangana,monsoon,7,0.728666
+Telangana,monsoon,8,0.6271
+Telangana,monsoon,9,0.539884
+Telangana,monsoon,10,0.47296
+Telangana,monsoon,11,0.43089
+Telangana,monsoon,12,0.416541
+Telangana,monsoon,13,0.43089
+Telangana,monsoon,14,0.47296
+Telangana,monsoon,15,0.539884
+Telangana,monsoon,16,0.6271
+Telangana,monsoon,17,0.728666
+Telangana,monsoon,18,0.83766
+Telangana,monsoon,19,0.83766
+Telangana,monsoon,20,0.83766
+Telangana,monsoon,21,0.83766
+Telangana,monsoon,22,0.83766
+Telangana,monsoon,23,0.83766
+Telangana,post_monsoon,0,0.83766
+Telangana,post_monsoon,1,0.83766
+Telangana,post_monsoon,2,0.83766
+Telangana,post_monsoon,3,0.83766
+Telangana,post_monsoon,4,0.83766
+Telangana,post_monsoon,5,0.83766
+Telangana,post_monsoon,6,0.83766
+Telangana,post_monsoon,7,0.728666
+Telangana,post_monsoon,8,0.6271
+Telangana,post_monsoon,9,0.539884
+Telangana,post_monsoon,10,0.47296
+Telangana,post_monsoon,11,0.43089
+Telangana,post_monsoon,12,0.416541
+Telangana,post_monsoon,13,0.43089
+Telangana,post_monsoon,14,0.47296
+Telangana,post_monsoon,15,0.539884
+Telangana,post_monsoon,16,0.6271
+Telangana,post_monsoon,17,0.728666
+Telangana,post_monsoon,18,0.83766
+Telangana,post_monsoon,19,0.83766
+Telangana,post_monsoon,20,0.83766
+Telangana,post_monsoon,21,0.83766
+Telangana,post_monsoon,22,0.83766
+Telangana,post_monsoon,23,0.83766
+West Bengal,winter,0,0.88167
+West Bengal,winter,1,0.88167
+West Bengal,winter,2,0.88167
+West Bengal,winter,3,0.88167
+West Bengal,winter,4,0.88167
+West Bengal,winter,5,0.88167
+West Bengal,winter,6,0.88167
+West Bengal,winter,7,0.842744
+West Bengal,winter,8,0.80647
+West Bengal,winter,9,0.775321
+West Bengal,winter,10,0.75142
+West Bengal,winter,11,0.736395
+West Bengal,winter,12,0.73127
+West Bengal,winter,13,0.736395
+West Bengal,winter,14,0.75142
+West Bengal,winter,15,0.775321
+West Bengal,winter,16,0.80647
+West Bengal,winter,17,0.842744
+West Bengal,winter,18,0.88167
+West Bengal,winter,19,0.88167
+West Bengal,winter,20,0.88167
+West Bengal,winter,21,0.88167
+West Bengal,winter,22,0.88167
+West Bengal,winter,23,0.88167
+West Bengal,summer,0,0.88167
+West Bengal,summer,1,0.88167
+West Bengal,summer,2,0.88167
+West Bengal,summer,3,0.88167
+West Bengal,summer,4,0.88167
+West Bengal,summer,5,0.88167
+West Bengal,summer,6,0.88167
+West Bengal,summer,7,0.842744
+West Bengal,summer,8,0.80647
+West Bengal,summer,9,0.775321
+West Bengal,summer,10,0.75142
+West Bengal,summer,11,0.736395
+West Bengal,summer,12,0.73127
+West Bengal,summer,13,0.736395
+West Bengal,summer,14,0.75142
+West Bengal,summer,15,0.775321
+West Bengal,summer,16,0.80647
+West Bengal,summer,17,0.842744
+West Bengal,summer,18,0.88167
+West Bengal,summer,19,0.88167
+West Bengal,summer,20,0.88167
+West Bengal,summer,21,0.88167
+West Bengal,summer,22,0.88167
+West Bengal,summer,23,0.88167
+West Bengal,monsoon,0,0.88167
+West Bengal,monsoon,1,0.88167
+West Bengal,monsoon,2,0.88167
+West Bengal,monsoon,3,0.88167
+West Bengal,monsoon,4,0.88167
+West Bengal,monsoon,5,0.88167
+West Bengal,monsoon,6,0.88167
+West Bengal,monsoon,7,0.842744
+West Bengal,monsoon,8,0.80647
+West Bengal,monsoon,9,0.775321
+West Bengal,monsoon,10,0.75142
+West Bengal,monsoon,11,0.736395
+West Bengal,monsoon,12,0.73127
+West Bengal,monsoon,13,0.736395
+West Bengal,monsoon,14,0.75142
+West Bengal,monsoon,15,0.775321
+West Bengal,monsoon,16,0.80647
+West Bengal,monsoon,17,0.842744
+West Bengal,monsoon,18,0.88167
+West Bengal,monsoon,19,0.88167
+West Bengal,monsoon,20,0.88167
+West Bengal,monsoon,21,0.88167
+West Bengal,monsoon,22,0.88167
+West Bengal,monsoon,23,0.88167
+West Bengal,post_monsoon,0,0.88167
+West Bengal,post_monsoon,1,0.88167
+West Bengal,post_monsoon,2,0.88167
+West Bengal,post_monsoon,3,0.88167
+West Bengal,post_monsoon,4,0.88167
+West Bengal,post_monsoon,5,0.88167
+West Bengal,post_monsoon,6,0.88167
+West Bengal,post_monsoon,7,0.842744
+West Bengal,post_monsoon,8,0.80647
+West Bengal,post_monsoon,9,0.775321
+West Bengal,post_monsoon,10,0.75142
+West Bengal,post_monsoon,11,0.736395
+West Bengal,post_monsoon,12,0.73127
+West Bengal,post_monsoon,13,0.736395
+West Bengal,post_monsoon,14,0.75142
+West Bengal,post_monsoon,15,0.775321
+West Bengal,post_monsoon,16,0.80647
+West Bengal,post_monsoon,17,0.842744
+West Bengal,post_monsoon,18,0.88167
+West Bengal,post_monsoon,19,0.88167
+West Bengal,post_monsoon,20,0.88167
+West Bengal,post_monsoon,21,0.88167
+West Bengal,post_monsoon,22,0.88167
+West Bengal,post_monsoon,23,0.88167

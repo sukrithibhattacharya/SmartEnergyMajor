@@ -1,0 +1,17 @@
+{
+  "reserve_hours": 4,
+  "reserve_window_hours": [
+    19,
+    22
+  ],
+  "k_safety": 1.0,
+  "target_coverage": 0.8,
+  "model_coverage_test": 0.795902489626556,
+  "persistence_coverage_test": 0.7740683229813664,
+  "n_state_days": 3856,
+  "n_calendar_days": 482,
+  "n_states": 8,
+  "reserve_formulation": "spinning",
+  "ci_proxy": "grid-average over reserve window",
+  "note": "Reserve margin = k \u00d7 interval width. Carbon = reserve_kWh \u00d7 CI_reserve. Scenario upper-bound estimate, not measured emissions. Marginal CI approximated by grid-average CI at hours 19-22."
+}

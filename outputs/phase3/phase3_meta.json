@@ -1,0 +1,45 @@
+{
+  "phase": 3,
+  "description": "Scenario-based state-specific time-varying carbon intensity",
+  "solar_cap": 0.6,
+  "solar_profile": "daylight sine profile with seasonal adjustment, physical cap, and mean-preserving normalization",
+  "solar_mean_preserved": true,
+  "emission_factors": {
+    "coal": 1.0,
+    "gas": 0.49,
+    "hydro": 0.024,
+    "solar": 0.048,
+    "wind": 0.011,
+    "nuclear": 0.012
+  },
+  "ef_boundary": "IPCC AR6 WG3 lifecycle medians",
+  "fuel_order": [
+    "coal",
+    "gas",
+    "hydro",
+    "solar",
+    "wind",
+    "nuclear"
+  ],
+  "national_flat_reference": 0.727,
+  "peak_hour": 19,
+  "solar_hour": 12,
+  "seasons": [
+    "winter",
+    "summer",
+    "monsoon",
+    "post_monsoon"
+  ],
+  "states": [
+    "Andhra Pradesh",
+    "Gujarat",
+    "Karnataka",
+    "Maharashtra",
+    "Rajasthan",
+    "Tamil Nadu",
+    "Telangana",
+    "West Bengal"
+  ],
+  "n_rows": 768,
+  "interpretation": "Scenario-based carbon intensity; not measured real-time marginal emissions."
+}
